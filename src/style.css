@@ -78,3 +78,7 @@ font-family: lobster , monospace;
     margin: auto;
     border-radius: 10px;
 }
+
+img.circullar-image{
+    border-radius: 50%;
+}
