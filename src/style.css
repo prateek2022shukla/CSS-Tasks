@@ -3,6 +3,9 @@
     padding: 0;
 } */
 
+
+
+
 h2{
     color: blue;
 }
@@ -16,7 +19,8 @@ ul li{
     color: green;
 }
 
-.hate{
+.hate{<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+
     color:red;
 }
 
@@ -51,3 +55,7 @@ font-size: 62px;
 #font-family-change{
     font-family: monospace;
 }    
+
+h2#lobster{
+font-family: lobster;
+}
