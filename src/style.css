@@ -69,3 +69,12 @@ font-family: lobster , monospace;
     text-align: center;
     margin: auto;
 }
+
+
+#border-radius{
+    border: 1px solid red;
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    border-radius: 10px;
+}
