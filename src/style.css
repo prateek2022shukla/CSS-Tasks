@@ -10,3 +10,12 @@ h2{
 ul li{
     font-size: 24px;
 }
+
+.love, .hate{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: green;
+}
+
+.hate{
+    color:red;
+}
