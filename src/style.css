@@ -231,3 +231,7 @@ body{
   .green-text {
     color: #0F0;
 }
+
+#rgb{
+    background-color: tan;
+}
