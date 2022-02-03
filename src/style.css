@@ -960,3 +960,13 @@ body{
     height: 10%;
     border-radius: 50%;
   }
+
+  :root {
+    --red-color: red;
+  }
+  .red-box {
+
+    background:  var(--red-color,red);
+    height: 200px;
+    width:200px;
+  }
