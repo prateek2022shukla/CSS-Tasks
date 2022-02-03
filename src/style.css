@@ -181,3 +181,9 @@ body{
     font-size: 26px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+
+.class-override-two{
+    font-size: 18px;
+    font-family: sans-serif;
+}
