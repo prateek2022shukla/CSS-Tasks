@@ -170,3 +170,14 @@ body{
     color: sienna;
     font-size: 25px;
 }
+
+.class-override{
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+
+#id-override{
+    font-size: 26px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
