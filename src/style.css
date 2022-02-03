@@ -146,3 +146,11 @@ img.circullar-image{
     margin: 20px 0px 20px 100px;
     
   }
+
+  #absolute{
+      font-size: 10mm;
+  }
+
+  #relative{
+    font-size: 20px;
+}
