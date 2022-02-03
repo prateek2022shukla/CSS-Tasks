@@ -141,3 +141,8 @@ img.circullar-image{
     border: 1px solid red;
     margin: 10px 20px 15px 60px;
 }
+
+[type='radio'] {
+    margin: 20px 0px 20px 100px;
+    
+  }
