@@ -93,3 +93,10 @@ img.circullar-image{
     text-justify: auto;
     font-size: 18px;
 }
+
+
+#identity-style{
+    text-justify: auto;
+    font-size: 18px;
+    color: rgb(16, 28, 5);
+}
