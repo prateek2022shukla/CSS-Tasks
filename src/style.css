@@ -88,3 +88,8 @@ img.circullar-image{
     width: 80%;
     text-align: center;
 }
+
+#identity{
+    text-justify: auto;
+    font-size: 18px;
+}
