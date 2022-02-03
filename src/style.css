@@ -187,3 +187,11 @@ body{
     font-size: 18px;
     font-family: sans-serif;
 }
+
+.important{
+    color: springgreen;
+}
+
+#important{
+    color: slateblue !important; 
+}
