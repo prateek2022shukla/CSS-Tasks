@@ -103,4 +103,10 @@ img.circullar-image{
 
 #padding{
     padding: 40px;
+    border: 1px solid red;
+}
+
+#margin{
+    margin: 40px;
+    border: 1px solid red;
 }
