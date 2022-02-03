@@ -158,3 +158,8 @@ img.circullar-image{
 body{
     background-color: rgb(205, 243, 255);
 }
+
+#prior{
+    font-family: monospace;
+    color: royalblue;
+}
