@@ -136,3 +136,8 @@ img.circullar-image{
     border: 1px solid red;
     padding: 10px 20px 15px 60px;
 }
+
+#clock-margin{
+    border: 1px solid red;
+    margin: 10px 20px 15px 60px;
+}
