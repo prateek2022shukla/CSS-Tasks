@@ -82,3 +82,9 @@ font-family: lobster , monospace;
 img.circullar-image{
     border-radius: 50%;
 }
+
+#bg-color{
+    background-color: rgb(255, 130, 130);
+    width: 80%;
+    text-align: center;
+}
